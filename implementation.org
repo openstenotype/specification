@@ -1,2 +1,2 @@
 * Implementation
-** OpenGL/SDL
+** SDL
