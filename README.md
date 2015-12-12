@@ -6,3 +6,7 @@
 ## Implementation
 
 Grab input with SDL or GTK+. Scim is a good example but limited to linux. Prefered to run on all operating systems.
+
+## Modality
+
+With modality short strokes can be re-used in modes so you don't end up with one large dictionary but a few smaller ones instead.
