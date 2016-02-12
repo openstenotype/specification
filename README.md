@@ -5,7 +5,7 @@
 
 ## Implementation
 
-Grab input with SDL or GTK+. Scim is a good example but limited to linux. Prefered to run on all operating systems.
+Grab input with [SDL](https://www.libsdl.org) or [GTK](http://www.gtk.org)+. [Scim](https://wiki.ubuntu.com/SCIM) is a good example but limited to linux. Prefered to run on all operating systems.
 
 ## Modality
 
