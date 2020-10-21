@@ -12,6 +12,7 @@ With modality short strokes can be re-used in modes so you don't end up with one
 - Desktop Control
 - Full Keyboard
 - Many modes available
+- Common di- & tri-grams
 
 ### Programming Layer
 - Editor Commands
