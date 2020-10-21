@@ -9,8 +9,7 @@
   - Next Window
   - Run Command
 - Full Keyboard
-- Many modes available
-- 
+- Switch to Programming Layer, Text Layer
 
 ### Programming Layer
 - Editor Commands
