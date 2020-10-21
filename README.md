@@ -1,9 +1,5 @@
 # Stenography
-
-## Modality
-
-With modality short strokes can be re-used in modes so you don't end up with one large dictionary but a few smaller ones instead.
-
+- Dictionaries can occur on multiple layers, this way no duplicates are needed
 ## Layers
 ### Base Layer
 - Desktop Control
