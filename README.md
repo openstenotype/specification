@@ -3,7 +3,7 @@
 ## Layers
 ### Base Layer
 #### Keyboard Emulation
-- Instead of finger spelling it uses the [Steno Alphabet](http://plover.stenoknight.com/2012/11/steno-alphabet-poster-corrected.html) and a few select common di- & tri-grams
+- Instead of finger spelling base layer uses the [Steno Alphabet](http://plover.stenoknight.com/2012/11/steno-alphabet-poster-corrected.html) and a few select common di- & tri-grams
 ### Controlling the Desktop
 - Change desktop
 - Close Window
